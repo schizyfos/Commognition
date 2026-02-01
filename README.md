@@ -1,7 +1,7 @@
 # commognition
 I am creating the 'Book without language' - https://dennikn.sk/blog/4203865/hippasos/, supposing that by listening to it, one can learn/create the impossible new, non-dualist language which the truth and ethics be one.
 
-# Inspiration
+# inspiration
 A Socratic dialogue on mathematics, by Alfréd Rényi, https://www.cambridge.org/core/services/aop-cambridge-core/content/view/13265932B04BE25A51D3944209C3AA08/S0008439500052346a.pdf/socratic_dialogue_on_mathematics.pdf 
 
 # TLDR
