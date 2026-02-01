@@ -1,7 +1,7 @@
 # Commognition
 I am creating the 'Book without language' - https://dennikn.sk/blog/4203865/hippasos/. 
 
-I suppose that by listening to it one can learn the new language enactively via commognition, i.e. cognition as communication with oneself.
+I suppose that by listening to it one can learn/create the new language enactively via commognition, i.e. cognition as communication with oneself.
 
 # Reference
 
