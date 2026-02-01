@@ -1,4 +1,4 @@
-# Commognition
+# commognition
 I am creating the 'Book without language' - https://dennikn.sk/blog/4203865/hippasos/, supposing that by listening to it, one can learn/create the impossible new, non-dualist language which the truth and ethics be one.
 
 # Inspiration
