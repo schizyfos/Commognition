@@ -1,5 +1,5 @@
 # Commognition
-I am creating an open reflective tool on youtube - https://www.youtube.com/playlist?list=PLrStYA3bqS4EEUMUvmVgrHZHGvndp2qHP&jct=dr5a8SXK1x1JcCxQhwl1xQ. 
+I am creating an open reflective tool on youtube - https://dennikn.sk/blog/4203865/hippasos/ 
 
 It's a playlist of Ukrainian IDM songs. 
 
