@@ -20,13 +20,14 @@ Individual agentic approach with LLMs are not enough for this (Bengio, https://l
 Summary: Reference allows us to remain on the field of science even in everyday life (Everyday Life).
 
 (4) This brings us closer to the real feasibility of Rényi's dream (Rényi):
-tldr
+
+## tldr
 "Of course, I then asked myself whether the rules used in the study of numbers and shapes could not be used outside of mathematics as well, whether it would not be worth trying to convince people to have the same demands on their own thinking as mathematicians, so that a similar precision of thinking would dominate philosophy, politics and everyday life in general. You see, that's what I've been trying to do ever since."
 
-full
+## full
 http://www.matematika.webz.cz/ostatni/?s=dialog
 
-longread
+## longread
 https://www.itec.aau.at/~laszlo/courses/grenzen/fdocuments.in_dialogues-on-mathematics-alfred-renyi.pdf
 Summary: This (1-4) is a procedure for restoring the broken pluralism in which we live. Otherwise, our life will turn into a paradox of self-reference, in which we are loosing ourselves (Barber's Paradox, In a small town, there is only one barber who shaves the very men in town who don't shave themselves. Does the barber shave himself? He should shave himself exactly when he won't shave himself).
 
