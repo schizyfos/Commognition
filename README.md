@@ -9,7 +9,7 @@ A Socratic dialogue on mathematics, by Alfréd Rényi, https://www.cambridge.org
 
 ## longread1 (commognition reference)
 (1) Theorizing physics is inspiring for the humanities.
-Because it involves an excellent command of the language of axiomatic theorizing, mathematics. The team is reaching its Gödelian proof limits (Hawking, https://www.hawking.org.uk/in-words/lectures/godel-and-the-end-of-physics).
+Because it involves an excellent command of the language of axiomatic theorizing, mathematics. Thereby it is reaching its Gödelian proof limits (Hawking, https://www.hawking.org.uk/in-words/lectures/godel-and-the-end-of-physics).
 Summary: Gödelian incompleteness of proof is a good uncertainty framework under which axiomatic theories work consistently.
 
 (2) Thanks to this, it comes up with a practical idea that overcomes these limitations - to search for connections in disconnected mathematical formalisms. Through this search, a completely new heuristic knowledge emerges unexpectedly (Witten, https://www.ias.edu/sites/default/files/sns/files/KyotoComemorativeLecture.pdf).
@@ -17,7 +17,7 @@ Summary: Mathematics defines the boundaries of physical intuitionism (Reference)
 
 (3) It is reasonable to hold onto this reference even when theorizing AI.
 Individual agentic approach with LLMs are not enough for this (Bengio, https://lawzero.org/en/research).
-Summary: Reference allows us to remain on the field of science even in everyday life (Everyday Life).
+Summary: Reference allows us to remain on the field of science even in everyday life.
 
 (4) This brings us closer to the real feasibility of Rényi's dream (Rényi):
 
